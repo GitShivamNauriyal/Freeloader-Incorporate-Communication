@@ -33,12 +33,18 @@ const HeroSection = () => {
                 />
             </svg>
 
-            {/* Main Text */}
-            <h1 className={styles.heroTitle}>
-                FREE
-                <br />
-                LOADER <br /> AGENCY
-            </h1>
+            {/* Text Content */}
+            <div className={styles.textContainer}>
+                <p className={styles.credentialsText}>2025 CREDENTIALS</p>
+                <h1 className={styles.heroTitle}>
+                    FREE
+                    <br />
+                    LOADER <br /> AGENCY
+                </h1>
+                <p className={styles.subText}>
+                    EXPERIENCES • MERCH • INFLUENCERS
+                </p>
+            </div>
         </section>
     );
 };
