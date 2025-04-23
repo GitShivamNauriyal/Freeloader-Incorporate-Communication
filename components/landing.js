@@ -42,7 +42,8 @@ const HeroSection = () => {
                     LOADER <br /> AGENCY
                 </h1>
                 <p className={styles.subText}>
-                    EXPERIENCES • MERCH • INFLUENCERS
+                    EXPERIENCES • MERCH • INFLUENCERS • BRANDS • EVENTS •
+                    COLLABORATIONS
                 </p>
             </div>
         </section>
