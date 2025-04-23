@@ -13,6 +13,7 @@ import Steps2 from "../components/steps2";
 import Testimonial17 from "../components/testimonial17";
 import Contact10 from "../components/contact10";
 import Footer4 from "../components/footer4";
+import HeroSection from "@/components/landing";
 
 const Home = (props) => {
     return (
@@ -104,6 +105,7 @@ const Home = (props) => {
                         </Fragment>
                     }
                 ></Navbar8>
+                <HeroSection />
                 <Hero17
                     action2={
                         <Fragment>
@@ -739,7 +741,7 @@ const Home = (props) => {
                     location1Description={
                         <Fragment>
                             <span className="home-text207">
-                                123 Main Street, New York, NY 10001
+                                123 Main Street, New Delhi, DL 110001
                             </span>
                         </Fragment>
                     }
@@ -751,7 +753,7 @@ const Home = (props) => {
                     location2Description={
                         <Fragment>
                             <span className="home-text209">
-                                456 Hollywood Blvd, Los Angeles, CA 90001
+                                Another Street, Gurugram, Haryana 122018
                             </span>
                         </Fragment>
                     }

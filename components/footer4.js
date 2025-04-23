@@ -9,13 +9,13 @@ const Footer4 = (props) => {
             <footer className="footer4-footer7 thq-section-padding">
                 <div className="footer4-max-width thq-section-max-width">
                     <div className="footer4-content">
-                        {/* <div className="footer4-logo1">
-              <img
-                alt={props.logoAlt}
-                src={props.logoSrc}
-                className="footer4-logo2"
-              />
-            </div> */}
+                        <div className="footer4-logo1">
+                            <img
+                                alt={props.logoAlt}
+                                src={props.logoSrc}
+                                className="footer4-logo2"
+                            />
+                        </div>
                         <div className="footer4-links">
                             <a
                                 href="https://example.com"
@@ -164,7 +164,8 @@ const Footer4 = (props) => {
                         flex-direction: column;
                     }
                     .footer4-logo2 {
-                        height: 2rem;
+                        border-radius: 50%;
+                        height: 5rem;
                     }
                     .footer4-links {
                         gap: var(--dl-layout-space-twounits);
@@ -258,7 +259,7 @@ Footer4.defaultProps = {
     link4: undefined,
     logoAlt: "Freeloader Agency Logo",
     cookiesLink: undefined,
-    logoSrc: "",
+    logoSrc: "/logo.jpeg",
     privacyLink: undefined,
 };
 

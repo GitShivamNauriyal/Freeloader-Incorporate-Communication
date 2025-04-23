@@ -245,6 +245,7 @@ const Hero17 = (props) => {
                     }
                     .hero17-text1 {
                         text-align: center;
+                        line-height: 1;
                     }
                     .hero17-text2 {
                         text-align: center;
