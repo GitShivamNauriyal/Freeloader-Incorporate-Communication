@@ -1,26 +1,24 @@
 {
-  "name": "metallic-ornate-butterfly",
-  "version": "1.0.0",
-  "description": "A next project generated based on a UIDL document",
-  "main": "index.js",
-  "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start",
-    "export": "next export"
-  },
-  "author": "TeleportHQ",
-  "license": "MIT",
-  "dependencies": {
-    "next": "^12.1.10",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "next-intl": "2.10.0",
-    "prop-types": "15.7.2",
-    "dangerous-html": "0.1.13"
-  },
-  "engines": {
-    "node": ">=18.x"
-  },
-  "devDependencies": {}
+    "name": "freeloader-agency",
+    "version": "1.0.0",
+    "description": "Freeloader Agency Website",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start",
+        "export": "next export"
+    },
+    "author": "Shivam Nauriyal",
+    "dependencies": {
+        "dangerous-html": "0.1.13",
+        "next": "^12.1.10",
+        "next-intl": "2.10.0",
+        "prop-types": "15.7.2",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    },
+    "engines": {
+        "node": ">=18.x"
+    }
 }

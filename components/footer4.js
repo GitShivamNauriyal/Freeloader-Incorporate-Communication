@@ -258,7 +258,7 @@ Footer4.defaultProps = {
     link4: undefined,
     logoAlt: "Freeloader Agency Logo",
     cookiesLink: undefined,
-    logoSrc: "https://presentation-website-assets.teleporthq.io/logos/logo.png",
+    logoSrc: "",
     privacyLink: undefined,
 };
 

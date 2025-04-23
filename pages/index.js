@@ -19,91 +19,88 @@ const Home = (props) => {
         <>
             <div className="home-container">
                 <Head>
-                    <title>Metallic Ornate Butterfly</title>
-                    <meta
-                        property="og:title"
-                        content="Metallic Ornate Butterfly"
-                    />
+                    <title>Freeloader Agency</title>
+                    <meta property="og:title" content="Freeloader Agency" />
                 </Head>
                 <Navbar8
                     page4Description={
                         <Fragment>
                             <span className="home-text100">
-                                Page Four Description
+                                Brands that trust us
                             </span>
                         </Fragment>
                     }
                     action1={
                         <Fragment>
-                            <span className="home-text101">Main Action</span>
+                            <span className="home-text101">Get Started</span>
                         </Fragment>
                     }
                     link2={
                         <Fragment>
-                            <span className="home-text102">Link 2</span>
+                            <span className="home-text102">Our Services</span>
                         </Fragment>
                     }
                     page1={
                         <Fragment>
-                            <span className="home-text103">Page One</span>
+                            <span className="home-text103">Our Team</span>
                         </Fragment>
                     }
                     link1={
                         <Fragment>
-                            <span className="home-text104">Link 1</span>
+                            <span className="home-text104">About us</span>
                         </Fragment>
                     }
                     page4={
                         <Fragment>
-                            <span className="home-text105">Page Four</span>
+                            <span className="home-text105">Brands</span>
                         </Fragment>
                     }
                     page2={
                         <Fragment>
-                            <span className="home-text106">Page Two</span>
+                            <span className="home-text106">Our Services</span>
                         </Fragment>
                     }
                     link4={
                         <Fragment>
-                            <span className="home-text107">Link 4</span>
+                            <span className="home-text107">
+                                Our Team & Partners
+                            </span>
                         </Fragment>
                     }
                     page1Description={
                         <Fragment>
                             <span className="home-text108">
-                                Page One Description
+                                Competent and experienced team
                             </span>
                         </Fragment>
                     }
                     page2Description={
                         <Fragment>
                             <span className="home-text109">
-                                Page Two Description
+                                Our services are designed to meet your needs
                             </span>
                         </Fragment>
                     }
                     link3={
                         <Fragment>
-                            <span className="home-text110">Link 3</span>
+                            <span className="home-text110">Our Work</span>
                         </Fragment>
                     }
                     page3={
                         <Fragment>
-                            <span className="home-text111">Page Three</span>
+                            <span className="home-text111">Our Partners</span>
                         </Fragment>
                     }
                     page3Description={
                         <Fragment>
                             <span className="home-text112">
-                                Page Three Description
+                                List of our partners
                             </span>
                         </Fragment>
                     }
                     action2={
                         <Fragment>
-                            <span className="home-text113">
-                                Secondary Action
-                            </span>
+                            <span className="home-text113">Sign Up</span>
                         </Fragment>
                     }
                 ></Navbar8>
@@ -111,13 +108,13 @@ const Home = (props) => {
                     action2={
                         <Fragment>
                             <span className="home-text114">
-                                Secondary action
+                                Know more about us
                             </span>
                         </Fragment>
                     }
                     action1={
                         <Fragment>
-                            <span className="home-text115">Main action</span>
+                            <span className="home-text115">Get Started</span>
                         </Fragment>
                     }
                     heading1={
