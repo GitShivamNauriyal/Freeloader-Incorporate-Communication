@@ -9,7 +9,7 @@ const HeroSection = () => {
             <div className={styles.gradientOverlay}></div>
 
             {/* Decorative SVGs */}
-            <svg
+            {/* <svg
                 className={`${styles.decorativeSvg} ${styles.topRight}`}
                 viewBox="0 0 200 200"
                 xmlns="http://www.w3.org/2000/svg"
@@ -31,7 +31,7 @@ const HeroSection = () => {
                     d="M44.7,-61.5C58.3,-53.2,69.9,-39.8,74.8,-24.2C79.7,-8.6,77.9,9.2,70.9,25.1C63.9,41,51.7,55,38.1,65.2C24.5,75.4,9.3,81.8,-5.5,82.7C-20.3,83.6,-40.6,79,-55.9,67.4C-71.2,55.8,-81.5,37.2,-83.5,18.5C-85.5,-0.2,-79.2,-19,-68.5,-34.5C-57.8,-50,-42.7,-62.2,-26.9,-67.5C-11.1,-72.8,5.5,-71.2,20.1,-65.1C34.7,-59,47.1,-48.4,44.7,-61.5Z"
                     transform="translate(100 100)"
                 />
-            </svg>
+            </svg> */}
 
             {/* Text Content */}
             <div className={styles.textContainer}>

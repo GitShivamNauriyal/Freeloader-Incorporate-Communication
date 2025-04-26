@@ -9,6 +9,11 @@
     background-color: #6b48ff; /* Vibrant purple background */
     overflow: hidden;
     padding: 0 2rem; /* Add padding for better spacing */
+
+    background-image: url("/background_assets/image1.gif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .gradientOverlay {

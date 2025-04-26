@@ -248,7 +248,7 @@ const Home = (props) => {
                         </Fragment>
                     }
                 ></Features25>
-                <Pricing14
+                {/* <Pricing14
                     plan3Price={
                         <Fragment>
                             <span className="home-text133">$299/month</span>
@@ -566,7 +566,7 @@ const Home = (props) => {
                             </span>
                         </Fragment>
                     }
-                ></Pricing14>
+                ></Pricing14> */}
                 <Steps2
                     step1Description={
                         <Fragment>
@@ -760,14 +760,14 @@ const Home = (props) => {
                     location1={
                         <Fragment>
                             <span className="home-text210">
-                                New York Office
+                                New Delhi Office
                             </span>
                         </Fragment>
                     }
                     location2={
                         <Fragment>
                             <span className="home-text211">
-                                Los Angeles Office
+                                Gurugram Office
                             </span>
                         </Fragment>
                     }
